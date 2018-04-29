@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jgfidelis/Development/Entria/react-native-camera/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jgfidelis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9474e17f73331059ccc6b402daf494a8/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/jgfidelis/Development/Entria/react-native-camera/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jgfidelis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9474e17f73331059ccc6b402daf494a8/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
