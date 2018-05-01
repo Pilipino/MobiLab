@@ -18,12 +18,12 @@ held in Singapore last April 24, 2018.
 
 MobiLab is composed of a team of Grade 10 High School students from Xavier School, Philippines:
 
-Adrian Dar T. Serapio
+* Adrian Dar T. Serapio
 
-John Alfonso Y. Roxas-Chua
+* John Alfonso Y. Roxas-Chua
 
-Lorenzo Bautista Formoso IV
+* Lorenzo Bautista Formoso IV
 
 **Mentored by:**
 
-Peter Martin D. Gomez
+* Peter Martin D. Gomez
