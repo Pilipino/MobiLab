@@ -26,4 +26,4 @@ MobiLab is composed of a team of Grade 10 High School students from Xavier Schoo
 
 **Mentored by:**
 
-* Peter Martin D. Gomez
+* Mr. Peter Martin D. Gomez
