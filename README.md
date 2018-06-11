@@ -22,7 +22,7 @@ MobiLab is composed of a team of Grade 10 High School students from Xavier Schoo
 
 * John Alfonso Y. Roxas-Chua
 
-* Lorenzo Bautista Formoso IV
+* Lorenzo B. Formoso IV
 
 **Mentored by:**
 
