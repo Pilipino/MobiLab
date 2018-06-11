@@ -7,12 +7,12 @@ MobiLab is a device-agnostic platform that harnesses the power of big data to id
 **JUDGES' CHOICE FINALIST** 
 
 in the University of Technology Sydney (UTS) IT Competition Asia 2018
-held in Singapore last April 24, 2018.
+held on April 24, held at the Raffles City Convention Centre, Singapore.
 
 **PEOPLE'S CHOICE WINNER** 
 
 in the University of Technology Sydney (UTS) IT Competition Asia 2018
-held in Singapore last April 24, 2018.
+held on April 24, held at the Raffles City Convention Centre, Singapore.
 
 # Creators
 
